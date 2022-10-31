@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="1290" width="1290">
-  <rect height="1290" id="bgbar" rx="0" ry="0" style="fill: rgb(255,255,255)" width="1290" x="0" y="0"/>
+  <rect height="1290" id="bgbar" rx="0" ry="0" style="fill: rgb(255,255,255); stroke-width: 0" width="1290" x="0" y="0" shape-rendering="crispEdges"/>
   <g id="group_code" style="fill: rgb(0,0,0)">
     <rect height="30" id="rect_0_0" rx="0" ry="0" width="30" x="150" y="150"/>
     <rect height="30" id="rect_1_0" rx="0" ry="0" width="30" x="180" y="150"/>
